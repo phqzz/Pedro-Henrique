@@ -1,4 +1,4 @@
-# Pedro Henrique \- FullStack Developer
+# Pedro Henrique \- FiveM Developer & Game Programmer
 
 > _"Transformando ideias em experiências imersivas dentro do universo FiveM."_
 
@@ -39,6 +39,7 @@ Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of exp
 
 ## 📫 Entre em Contato / Get in Touch
 - 💬 Aberto a colaborações e parcerias em projetos FiveM
+- 📧 Email: [pedrogg580265@gmail.com](mailto:pedrogg580265@gmail.com)
 - 📧 Entre em contato comigo para criar experiências únicas para sua comunidade
 
 ---

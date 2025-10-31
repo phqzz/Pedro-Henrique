@@ -27,12 +27,12 @@ Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of exp
 ---
 
 ## 📊 Estatísticas do GitHub / GitHub Stats
-> Substitua `phqzz` pelo seu nome de usuário do GitHub para que os cards funcionem corretamente.
+> `phqzz`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=radical&show_icons=true&hide_border=true" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phqzz&theme=radical&show_icons=true&hide_border=true" alt="Pedro's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phqzz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=phqzz&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
